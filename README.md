@@ -19,8 +19,6 @@
   <br/>
   <br/>
 
-  <!--Activity Graph-->
-  <a href="https://github.com/SeaYJ"><img src="https://camo.githubusercontent.com/c6cb4685d803bcdec679a2dfce45b05a17c804229be56755763b052b2f6405f8/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d536561594a267468656d653d7265616374" alt="SeaYJ's github activity graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=SeaYJ&amp;theme=react" style="max-width: 100%;"></a>
 
   <!--Snake Code Contribution Map 贪吃蛇代码贡献图-->
   <picture>
@@ -28,6 +26,13 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
+  <br/>
+  <br/>
+
+  
+  <!--Activity Graph-->
+  <a href="https://github.com/SeaYJ"><img src="https://camo.githubusercontent.com/c6cb4685d803bcdec679a2dfce45b05a17c804229be56755763b052b2f6405f8/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d536561594a267468656d653d7265616374" alt="SeaYJ's github activity graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=SeaYJ&amp;theme=react" style="max-width: 100%;"></a>
+  
 </div>
 
 
