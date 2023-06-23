@@ -37,7 +37,7 @@ jobs:
       - name: GitHub Sponsorships
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.sponsorships.svg
+          filename: assets/metrics.plugin.sponsorships.svg
           token: ${{ github.token }}
           base: ""
           plugin_sponsorships: yes
