@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=SeaYJ&theme=xcode" /> </div>
 
 <!--
 **SeaYJ/SeaYJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
