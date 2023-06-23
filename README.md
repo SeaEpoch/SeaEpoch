@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![SeaYJ's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SeaYJ&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![SeaYJ's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SeaYJ&theme=react)](https://www.seayj.cn/)
 
 <!--
 **SeaYJ/SeaYJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
