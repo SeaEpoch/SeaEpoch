@@ -1,6 +1,9 @@
 <div align="center">
   <!--打字特效-->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=44CEF6&center=true&vCenter=true&width=800&lines=To+iterate+is+human%2C+to+recurse+divine.;%E8%BF%AD%E4%BB%A3%E8%80%85%E4%B8%BA%E4%BA%BA%EF%BC%8C%E9%80%92%E5%BD%92%E8%80%85%E4%B8%BA%E7%A5%9E%E3%80%82" alt="Typing SVG" /></a>
+  <br/>
+  <br/>
+  <br/>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -10,6 +13,8 @@
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=SeaYJ&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
+  <br/>
+  <br/>
   <br/>
   <br/>
   <br/>
