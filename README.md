@@ -74,8 +74,8 @@
     </tr>
   </table>
 
-  <img align="center" src="./assets/metrics.plugin.reactions.svg" />
-  <img align="center" src="./assets/metrics.plugin.sponsorships.svg" />
+  <img align="left" src="./assets/metrics.plugin.reactions.svg" />
+  <img align="right" src="./assets/metrics.plugin.sponsors.full.svg" />
   
 </div>
 
