@@ -1,6 +1,9 @@
 name: Blog Posts
 
 on:
+  push:
+    branches: 
+      - master 
   # Run workflow automatically
   schedule:
     # Runs every hour, on the hour
