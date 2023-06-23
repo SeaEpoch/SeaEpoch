@@ -32,5 +32,15 @@ jobs:
           plugin_reactions: yes
           plugin_reactions_limit: 100
           plugin_reactions_details: percentage
+          
+      # 💝 GitHub Sponsorships
+      - name: GitHub Sponsorships
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.sponsorships.svg
+          token: ${{ secrets.METRICS_TOKEN_PERSONAL }}
+          base: ""
+          plugin_sponsorships: yes
+
 
 
