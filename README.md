@@ -24,12 +24,16 @@
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 
 ![.Net Badge](https://img.shields.io/badge/.Net-512BD4?logo=dotnet&logoWidth=18&logoColor=fff&style=flat)
-![WPF Badge](https://img.shields.io/badge/WPF-4FC08D)
+![WPF Badge](https://img.shields.io/badge/WPF-0f76b0)
 ![Unity Badge](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=000&style=flat)
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=flat)
 ![Hexo Badge](https://img.shields.io/badge/Hexo-0E83CD?logo=hexo&logoColor=fff&style=flat)
+![Stylus Badge](https://img.shields.io/badge/Stylus-333333?logo=stylus&logoColor=fff&style=flat)
+![Electron Badge](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff&style=flat)
+![Alibaba Cloud Badge](https://img.shields.io/badge/AlibabaCloud-FF6A00?logo=alibabacloud&logoColor=fff&style=flat)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
   <br/>
 
 
