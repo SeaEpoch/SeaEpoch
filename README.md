@@ -1,8 +1,12 @@
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <div align="center">
   <!--打字特效-->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=44CEF6&center=true&vCenter=true&width=800&lines=To+iterate+is+human%2C+to+recurse+divine.;%E8%BF%AD%E4%BB%A3%E8%80%85%E4%B8%BA%E4%BA%BA%EF%BC%8C%E9%80%92%E5%BD%92%E8%80%85%E4%B8%BA%E7%A5%9E%E3%80%82" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2400&pause=3600&color=44CEF6&center=true&vCenter=true&width=800&lines=To+iterate+is+human%2C+to+recurse+divine." alt="Typing SVG" /></a>
   <br/>
   <br/>
   <br/>
@@ -47,6 +51,8 @@
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)
   <br/>
 
+  <!--Activity Graph-->
+  <a href="https://github.com/SeaYJ"><img src="https://camo.githubusercontent.com/c6cb4685d803bcdec679a2dfce45b05a17c804229be56755763b052b2f6405f8/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d536561594a267468656d653d7265616374" alt="SeaYJ's github activity graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=SeaYJ&amp;theme=react" style="max-width: 100%;"></a>
 
   <!--Snake Code Contribution Map 贪吃蛇代码贡献图-->
   <picture>
@@ -56,10 +62,6 @@
   </picture>
   <br/>
   <br/>
-
-  
-  <!--Activity Graph-->
-  <a href="https://github.com/SeaYJ"><img src="https://camo.githubusercontent.com/c6cb4685d803bcdec679a2dfce45b05a17c804229be56755763b052b2f6405f8/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d536561594a267468656d653d7265616374" alt="SeaYJ's github activity graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=SeaYJ&amp;theme=react" style="max-width: 100%;"></a>
 
   <!-- 统计卡片 -->
   <table align="center">
@@ -74,13 +76,22 @@
     </tr>
   </table>
 
+  <!--成就-->
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=SeaYJ&rank=SSS,SS,S,AAA,AA,A,B,C&column=-1&margin-w=15&margin-h=15&theme=dark_lover&no-bg=true" />
+  </div>
+
+  <!--回应统计-->
   <div align="center">
     <img src="./assets/metrics.plugin.reactions.svg" />
   </div>
-  
+
+  <!--赞助者信息-->
   <div align="center">
     <img align="center" src="./assets/metrics.plugin.sponsors.full.svg" />
   </div>
+
+  
   
 </div>
 
