@@ -22,6 +22,7 @@
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+
 ![.Net Badge](https://img.shields.io/badge/.Net-512BD4?logo=dotnet&logoWidth=18&logoColor=fff&style=flat)
 ![WPF Badge](https://img.shields.io/badge/WPF-4FC08D)
 ![Unity Badge](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=000&style=flat)
