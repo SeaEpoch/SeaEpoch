@@ -1,6 +1,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [建站一周年啦~](https://seayj.cn/articles/d703/)
+- [如何使用ConsoleMenu库构建键盘控制型控制台菜单程序？](https://seayj.cn/articles/f3e3/)
+- [过年了，不给你的博客添加一个喜庆的灯笼吗？](https://seayj.cn/articles/b445/)
+- [【转载】电脑黑客与小白的爱情故事](https://seayj.cn/articles/4188/)
+- [浅谈算法中按位与](https://seayj.cn/articles/5611/)
 <!-- BLOG-POST-LIST:END -->
 
 
