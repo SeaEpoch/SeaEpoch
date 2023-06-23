@@ -75,6 +75,7 @@
   </table>
 
   <img align="center" src="./assets/metrics.plugin.reactions.svg" />
+  <img align="center" src="./assets/metrics.plugin.sponsorships.svg" />
   
 </div>
 
