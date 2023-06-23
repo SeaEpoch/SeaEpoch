@@ -35,10 +35,15 @@
 
   <!--Snake Code Contribution Map 贪吃蛇代码贡献图-->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/SeaYJ/SeaYJ/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/SeaYJ/SeaYJ/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/SeaYJ/SeaYJ/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+    <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
   </picture>
+
+作者：墨渊君
+链接：https://juejin.cn/post/7220439797566947389
+来源：稀土掘金
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
   <br/>
   <br/>
 
