@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=SeaYJ&theme=xcode" /> </div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **SeaYJ/SeaYJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
