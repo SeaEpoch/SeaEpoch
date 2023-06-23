@@ -1,4 +1,6 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=concert+one&weight=600&pause=3000&color=44CEF6&background=00000006&center=true&vCenter=true&multiline=true&width=435&lines=awskjdgwjegdjeqwgdj" alt="Typing SVG" />
+</a>
 
 [![SeaYJ's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SeaYJ&theme=react)](https://github.com/SeaYJ)
 
