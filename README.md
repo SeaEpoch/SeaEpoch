@@ -69,7 +69,7 @@
         <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
       </td>
       <td align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=SeaYJ&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
       </td>
     </tr>
   </table>
