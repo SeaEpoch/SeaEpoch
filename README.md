@@ -14,9 +14,21 @@
     <img src="https://komarev.com/ghpvc/?username=SeaYJ&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
   <br/>
-  <br/>
-  <br/>
-  <br/>
+
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
+![CPP Badge](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff&style=flat)
+![C# Badge](https://img.shields.io/badge/CSharp-239120?logo=csharp&logoColor=fff&style=flat)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![.Net Badge](https://img.shields.io/badge/.Net-512BD4?logo=dotnet&logoWidth=18&logoColor=fff&style=flat)
+![WPF Badge](https://img.shields.io/badge/WPF-4FC08D)
+![Unity Badge](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=000&style=flat)
+![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![Node.js Badge](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=flat)
+![Hexo Badge](https://img.shields.io/badge/Hexo-0E83CD?logo=hexo&logoColor=fff&style=flat)
   <br/>
 
 
@@ -34,8 +46,6 @@
   <a href="https://github.com/SeaYJ"><img src="https://camo.githubusercontent.com/c6cb4685d803bcdec679a2dfce45b05a17c804229be56755763b052b2f6405f8/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d536561594a267468656d653d7265616374" alt="SeaYJ's github activity graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=SeaYJ&amp;theme=react" style="max-width: 100%;"></a>
   
 </div>
-
-
 
 <!--
 **SeaYJ/SeaYJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
