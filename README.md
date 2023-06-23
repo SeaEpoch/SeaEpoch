@@ -74,8 +74,13 @@
     </tr>
   </table>
 
-  <img align="left" src="./assets/metrics.plugin.reactions.svg" />
-  <img align="right" src="./assets/metrics.plugin.sponsors.full.svg" />
+  <div align="center">
+    <img src="./assets/metrics.plugin.reactions.svg" />
+  </div>
+  
+  <div align="center">
+    <img align="center" src="./assets/metrics.plugin.sponsors.full.svg" />
+  </div>
   
 </div>
 
