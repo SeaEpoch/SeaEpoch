@@ -13,14 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # 📅 Isometric commit calendar
-      - name: Full-year calendar
+      - name: metrics-Half-year-calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics/isocalendar.fullyear.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          # 不添加基础信息
           base: ""
-          # 使用此插件
-          plugin_isocalendar: yes
-          # 设置成显示整年
-          plugin_isocalendar_duration: full-year
+          filename: assets/metrics.plugin.isocalendar.svg
+          token: ${{ github.token }}
+          plugin_isocalendar: ye
