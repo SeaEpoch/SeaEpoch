@@ -72,15 +72,9 @@
         <img src="https://github-readme-stats.vercel.app/api?username=SeaYJ&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
       </td>
     </tr>
-    <tr>
-      <td align="center">
-        <img align="left" src="./assets/metrics.plugin.reactions.svg" />
-      </td>
-      <td align="left">
-        <img align="left" src="./assets/metrics.plugin.reactions.svg" />
-      </td>
-    </tr>
   </table>
+
+  <img align="center" src="./assets/metrics.plugin.reactions.svg" />
   
 </div>
 
