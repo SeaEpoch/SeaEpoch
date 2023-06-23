@@ -38,7 +38,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.sponsorships.svg
-          token: ${{ secrets.METRICS_TOKEN_PERSONAL }}
+          token: ${{ github.token }}
           base: ""
           plugin_sponsorships: yes
 
