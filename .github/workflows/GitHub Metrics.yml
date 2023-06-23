@@ -19,4 +19,4 @@ jobs:
           base: ""
           filename: assets/metrics.plugin.isocalendar.svg
           token: ${{ github.token }}
-          plugin_isocalendar: ye
+          plugin_isocalendar: yes
