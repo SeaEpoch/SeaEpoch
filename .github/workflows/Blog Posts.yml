@@ -24,7 +24,7 @@ jobs:
       - name: Screenshot
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics/pagespeed.screenshot.svg
+          filename: assets/pagespeed.screenshot.svg
           token: NOT_NEEDED
           base: ""
           plugin_pagespeed: yes
