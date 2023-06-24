@@ -1,3 +1,8 @@
+## 🌍 My Blog Site
+
+<!-- My Blog 博客首页 -->
+<a align="center" href="https://www.seayj.cn"><img src="./assets/pagespeed.screenshot.svg" /></a>
+
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -7,9 +12,10 @@
 - [【转载】电脑黑客与小白的爱情故事](https://seayj.cn/articles/4188/)
 - [浅谈算法中按位与](https://seayj.cn/articles/5611/)
 <!-- BLOG-POST-LIST:END -->
+<br/>
 
-<!-- My Blog 博客首页 -->
-<a href="https://www.seayj.cn"><img src="./assets/pagespeed.screenshot.svg" /></a>
+
+## 📈 My Github Statistics
 
 <div align="center">
   <!--打字特效-->
