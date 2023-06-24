@@ -8,6 +8,8 @@
 - [浅谈算法中按位与](https://seayj.cn/articles/5611/)
 <!-- BLOG-POST-LIST:END -->
 
+<!-- My Blog 博客首页 -->
+<a href="https://www.seayj.cn"><img src="./assets/pagespeed.screenshot.svg" /></a>
 
 <div align="center">
   <!--打字特效-->
