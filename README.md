@@ -1,7 +1,7 @@
-## 🌍 My Blog Site
+<!--## 🌍 My Blog Site-->
 
 <!-- My Blog 博客首页 -->
-<a align="center" href="https://www.seayj.cn"><img src="./assets/pagespeed.screenshot.svg" /></a>
+<!--<a align="center" href="https://www.seayj.cn"><img src="./assets/pagespeed.screenshot.svg" /></a>-->
 
 ## 📕 Latest Blog Posts
 
