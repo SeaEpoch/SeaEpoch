@@ -7,10 +7,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [数学建模之优劣解距离法 Topsis](https://seayj.cn/articles/d2b3/)
-- [我的C++修仙路](https://seayj.cn/articles/4d3e/)
 - [建站一周年啦~](https://seayj.cn/articles/d703/)
 - [如何使用ConsoleMenu库构建键盘控制型控制台菜单程序？](https://seayj.cn/articles/f3e3/)
 - [过年了，不给你的博客添加一个喜庆的灯笼吗？](https://seayj.cn/articles/b445/)
+- [【转载】电脑黑客与小白的爱情故事](https://seayj.cn/articles/4188/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
