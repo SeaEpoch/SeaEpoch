@@ -6,11 +6,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [文心一言站起来了？](https://seayj.cn/articles/d387/)
 - [常见字符集编码](https://seayj.cn/articles/f24f/)
 - [数学建模之优劣解距离法 Topsis](https://seayj.cn/articles/d2b3/)
 - [建站一周年啦~](https://seayj.cn/articles/d703/)
 - [如何构建键盘控制型控制台菜单？](https://seayj.cn/articles/f3e3/)
-- [不为你的博客挂个喜庆的灯笼吗？](https://seayj.cn/articles/b445/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
