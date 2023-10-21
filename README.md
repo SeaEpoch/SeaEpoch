@@ -6,11 +6,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2023年高教社杯总结](https://seayj.cn/articles/c351/)
 - [C++ Pair&lpar;对组类型&rpar;](https://seayj.cn/articles/31a1/)
 - [数组:二分查找](https://seayj.cn/articles/4927/)
 - [无需产品密钥免费获取 Office 2021](https://seayj.cn/articles/a7dc/)
 - [文心一言站起来了？](https://seayj.cn/articles/d387/)
-- [常见字符集编码](https://seayj.cn/articles/f24f/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
