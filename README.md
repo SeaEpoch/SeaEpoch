@@ -6,11 +6,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [奇怪的循环&lpar;C++&rpar;分析](https://seayj.cn/articles/d8db/)
 - [攀登 OpenGL](https://seayj.cn/articles/14f6/)
 - [C++ STL 基础及应用](https://seayj.cn/articles/4149/)
 - [记录一次QT程序崩溃及解决](https://seayj.cn/articles/6e7b/)
 - [2023年高教社杯总结](https://seayj.cn/articles/c351/)
-- [C++ Pair&lpar;对组类型&rpar;](https://seayj.cn/articles/31a1/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
