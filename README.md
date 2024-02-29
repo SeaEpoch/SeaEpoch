@@ -65,7 +65,7 @@
   <br/>
 
   <!--Activity Graph-->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SeaYJ&theme=github-compact)](https://github.com/SeaYJ/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SeaYJ&theme=github-compact)](https://github.com/SeaYJ)
 
   <!--Snake Code Contribution Map 贪吃蛇代码贡献图-->
   <picture>
