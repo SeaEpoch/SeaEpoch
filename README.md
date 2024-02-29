@@ -100,9 +100,9 @@
   </div>
 
   <!--赞助者信息-->
-  <div align="center">
+  <!--<div align="center">
     <img align="center" src="./assets/metrics.plugin.sponsors.full.svg" />
-  </div>
+  </div>-->
 
 </div>
 
