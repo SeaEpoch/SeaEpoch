@@ -6,11 +6,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [请减少IF嵌套，拥抱卫语句](https://www.seayj.cn/articles/64f84463/)
 - [VS 配置 SQLite3 库](https://www.seayj.cn/articles/94e9/)
 - [hexo[Matery] 升级为Algolia搜索](https://www.seayj.cn/articles/d379/)
 - [奇怪的循环&lpar;C++&rpar;分析II](https://www.seayj.cn/articles/ccac/)
 - [Qt 获取控件尺寸信息错误](https://www.seayj.cn/articles/fd57/)
-- [QT 程序打包](https://www.seayj.cn/articles/ccc3/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
