@@ -6,11 +6,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[AcWing]二分算法](https://www.seayj.cn/articles/ee6ec901/)
 - [记录一次 Twikoo 修复工作](https://www.seayj.cn/articles/86fb3576/)
 - [[AcWing]归并排序](https://www.seayj.cn/articles/973627fe/)
 - [[AcWing]快速排序](https://www.seayj.cn/articles/4a454e53/)
 - [请减少IF嵌套，拥抱卫语句](https://www.seayj.cn/articles/64f84463/)
-- [VS 配置 SQLite3 库](https://www.seayj.cn/articles/94e9/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
