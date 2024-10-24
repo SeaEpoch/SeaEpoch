@@ -6,8 +6,8 @@ on:
 #       - master 
 
   schedule:
-    # Runs every hour, on the hour
-    - cron: "0 * * * *"
+    # 每12小时执行一次
+    - cron: "0 */12 * * *"
 
 jobs:
   update-readme-with-blog:
