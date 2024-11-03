@@ -6,11 +6,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[AcWing]前缀和&amp;差分](https://www.seayj.cn/articles/7fc7db74/)
 - [[AcWing]大数运算](https://www.seayj.cn/articles/ad7498a/)
 - [[AcWing]二分算法](https://www.seayj.cn/articles/ee6ec901/)
 - [记录一次 Twikoo 修复工作](https://www.seayj.cn/articles/86fb3576/)
 - [[AcWing]归并排序](https://www.seayj.cn/articles/973627fe/)
-- [[AcWing]快速排序](https://www.seayj.cn/articles/4a454e53/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
