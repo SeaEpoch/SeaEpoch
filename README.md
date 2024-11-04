@@ -6,11 +6,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Qt 安装失败 | 报错“无法下载存档” | 更换下载源](https://www.seayj.cn/articles/bf6e33c0/)
 - [[AcWing]前缀和&amp;差分](https://www.seayj.cn/articles/7fc7db74/)
 - [[AcWing]大数运算](https://www.seayj.cn/articles/ad7498a/)
 - [[AcWing]二分算法](https://www.seayj.cn/articles/ee6ec901/)
 - [记录一次 Twikoo 修复工作](https://www.seayj.cn/articles/86fb3576/)
-- [[AcWing]归并排序](https://www.seayj.cn/articles/973627fe/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
