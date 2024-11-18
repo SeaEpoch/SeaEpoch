@@ -6,11 +6,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C++ 中关闭 cin\cout 同步及其利弊](https://www.seayj.cn/articles/360b7110/)
 - [[AcWing]区间合并](https://www.seayj.cn/articles/adc75522/)
 - [[AcWing]位运算&lpar;二进制的最后一个 1&rpar;](https://www.seayj.cn/articles/9f470bbc/)
 - [图表配色指南](https://www.seayj.cn/articles/37a532ee/)
 - [Qt 安装失败 | 报错“无法下载存档” | 更换下载源](https://www.seayj.cn/articles/bf6e33c0/)
-- [[AcWing]前缀和&amp;差分](https://www.seayj.cn/articles/7fc7db74/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
