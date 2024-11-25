@@ -37,20 +37,14 @@
 <!--编程语言-->
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![CPP Badge](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![C# Badge](https://img.shields.io/badge/CSharp-953bac?logo=csharp&logoColor=fff&style=flat)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 <!--编程框架&进阶-->
-![.Net Badge](https://img.shields.io/badge/.Net-512BD4?logo=dotnet&logoWidth=18&logoColor=fff&style=flat)
-![WPF Badge](https://img.shields.io/badge/WPF-0f76b0)
-![Unity Badge](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=000&style=flat)
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![Node.js Badge](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=flat)
 ![Stylus Badge](https://img.shields.io/badge/Stylus-333333?logo=stylus&logoColor=fff&style=flat)
-![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
+![PUG Badge](https://img.shields.io/badge/PUG-0769AD?logo=pug&logoColor=fff&style=flat)
 ![Hexo Badge](https://img.shields.io/badge/Hexo-0E83CD?logo=hexo&logoColor=fff&style=flat)
 ![Electron Badge](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff&style=flat)
 <!--编程工具-->
@@ -60,7 +54,6 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 <!--操作系统-->
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Kali Badge](https://img.shields.io/badge/Kali-557C94?logo=kalilinux&logoColor=fff&style=flat)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)
   <br/>
 
