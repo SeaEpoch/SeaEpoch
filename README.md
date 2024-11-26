@@ -6,11 +6,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [我嘞个豆！原来 C/C++ 宏还可以这么玩啊？](https://www.seayj.cn/articles/44d9e9a3/)
 - [解决微软商店软件崩溃（0x80073CFA与0x80073CF9）](https://www.seayj.cn/articles/89987d18/)
 - [C++ 中关闭 cin\cout 同步及其利弊](https://www.seayj.cn/articles/360b7110/)
 - [[AcWing]区间合并](https://www.seayj.cn/articles/adc75522/)
 - [[AcWing]位运算&lpar;二进制的最后一个 1&rpar;](https://www.seayj.cn/articles/9f470bbc/)
-- [图表配色指南](https://www.seayj.cn/articles/37a532ee/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
