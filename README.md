@@ -6,11 +6,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pytorch 安装[最佳方案][全网最详细]](https://www.seayj.cn/articles/11fe3e26/)
 - [C/C++ 内存分区模型](https://www.seayj.cn/articles/ca264c42/)
 - [C++ 中类的内存大小分析与总结——sizeof](https://www.seayj.cn/articles/26603de8/)
 - [我嘞个豆！原来 C/C++ 宏还可以这么玩啊？](https://www.seayj.cn/articles/44d9e9a3/)
 - [解决微软商店软件崩溃（0x80073CFA与0x80073CF9）](https://www.seayj.cn/articles/89987d18/)
-- [C++ 中关闭 cin\cout 同步及其利弊](https://www.seayj.cn/articles/360b7110/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
