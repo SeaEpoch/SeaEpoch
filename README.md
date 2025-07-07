@@ -30,7 +30,7 @@
     <a href="https://space.bilibili.com/1492406599/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://www.zhihu.com/people/cheng-feng-po-lang-30-75/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=SeaYJ&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=SeaEpoch&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
   <br/>
 
@@ -58,7 +58,7 @@
   <br/>
 
   <!--Activity Graph-->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SeaYJ&theme=react)](https://github.com/SeaYJ)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SeaEpoch&theme=react)](https://github.com/SeaEpoch)
 
   <!--Snake Code Contribution Map 贪吃蛇代码贡献图-->
   <picture>
@@ -77,14 +77,14 @@
         <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
       </td>
       <td align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=SeaYJ&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=SeaEpoch&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
       </td>
     </tr>
   </table>
 
   <!--成就-->
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=SeaYJ&rank=SSS,SS,S,AAA,AA,A,B,C&column=-1&margin-w=15&margin-h=15&theme=dark_lover&no-bg=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SeaEpoch&rank=SSS,SS,S,AAA,AA,A,B,C&column=-1&margin-w=15&margin-h=15&theme=dark_lover&no-bg=true" />
   </div>
 
   <!--回应统计-->
