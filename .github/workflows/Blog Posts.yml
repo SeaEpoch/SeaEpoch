@@ -18,7 +18,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # comma-separated list of RSS feed urls
-          feed_list: "https://www.seayj.cn/atom.xml"
+          feed_list: "https://www.seaepoch.com/atom.xml"
           
       # ⏱️ Google PageSpeed
       - name: Screenshot
@@ -31,4 +31,4 @@ jobs:
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://www.seayj.cn/
+          plugin_pagespeed_url: https://www.seaepoch.com/
