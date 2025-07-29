@@ -1,16 +1,16 @@
 <!--## 🌍 My Blog Site-->
 
 <!-- My Blog 博客首页 -->
-<!--<a align="center" href="https://www.seayj.cn"><img src="./assets/pagespeed.screenshot.svg" /></a>-->
+<!--<a align="center" href="https://www.seaepoch.com"><img src="./assets/pagespeed.screenshot.svg" /></a>-->
 
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pytorch 安装[最佳方案][全网最详细]](https://www.seayj.cn/articles/11fe3e26/)
-- [C/C++ 内存分区模型](https://www.seayj.cn/articles/ca264c42/)
-- [C++ 中类的内存大小分析与总结——sizeof](https://www.seayj.cn/articles/26603de8/)
-- [我嘞个豆！原来 C/C++ 宏还可以这么玩啊？](https://www.seayj.cn/articles/44d9e9a3/)
-- [解决微软商店软件崩溃（0x80073CFA与0x80073CF9）](https://www.seayj.cn/articles/89987d18/)
+- [Pytorch 安装[最佳方案][全网最详细]](https://www.seaepoch.com/articles/11fe3e26/)
+- [C/C++ 内存分区模型](https://www.seaepoch.com/articles/ca264c42/)
+- [C++ 中类的内存大小分析与总结——sizeof](https://www.seaepoch.com/articles/26603de8/)
+- [我嘞个豆！原来 C/C++ 宏还可以这么玩啊？](https://www.seaepoch.com/articles/44d9e9a3/)
+- [解决微软商店软件崩溃（0x80073CFA与0x80073CF9）](https://www.seaepoch.com/articles/89987d18/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
@@ -26,7 +26,7 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://www.seayj.cn/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://www.seaepoch.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://space.bilibili.com/1492406599/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://www.zhihu.com/people/cheng-feng-po-lang-30-75/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
