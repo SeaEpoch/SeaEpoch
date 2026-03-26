@@ -6,11 +6,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [深入理解 C++ Lambda 捕获机制](https://www.seaepoch.com/articles/df0b96ab/)
 - [BCompare 注册码 &amp; 破解教程](https://www.seaepoch.com/articles/eefeaedb/)
 - [Pytorch 安装[最佳方案][全网最详细]](https://www.seaepoch.com/articles/11fe3e26/)
 - [C/C++ 内存分区模型](https://www.seaepoch.com/articles/ca264c42/)
 - [C++ 中类的内存大小分析与总结——sizeof](https://www.seaepoch.com/articles/26603de8/)
-- [我嘞个豆！原来 C/C++ 宏还可以这么玩啊？](https://www.seaepoch.com/articles/44d9e9a3/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
