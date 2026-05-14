@@ -6,11 +6,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [QML ColorAnimation 的陷阱：为什么不能同时动画颜色和透明度？](https://www.seaepoch.com/articles/2a9d3394/)
+- [QML 单例简明指南](https://www.seaepoch.com/articles/38f86482/)
+- [QML Row 和 RowLayout 的区别](https://www.seaepoch.com/articles/dc1e73b9/)
 - [Qt QProcess 信号深度解析](https://www.seaepoch.com/articles/de5a75c7/)
 - [深入理解 C++ Lambda 捕获机制](https://www.seaepoch.com/articles/df0b96ab/)
-- [BCompare 注册码 &amp; 破解教程](https://www.seaepoch.com/articles/eefeaedb/)
-- [Pytorch 安装[最佳方案][全网最详细]](https://www.seaepoch.com/articles/11fe3e26/)
-- [C/C++ 内存分区模型](https://www.seaepoch.com/articles/ca264c42/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
