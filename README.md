@@ -84,7 +84,7 @@
 
   <!--成就-->
   <div align="center">
-    <img src="https://seaepoch-profile-trophy.vercel.app/?username=SeaEpoch&rank=SSS,SS,S,AAA,AA,A,B,C&column=-1&margin-w=15&margin-h=15&theme=dark_lover&no-bg=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SeaEpoch&rank=SSS,SS,S,AAA,AA,A,B,C&column=-1&margin-w=15&margin-h=15&theme=dark_lover&no-bg=true" />
   </div>
 
   <!--回应统计-->
