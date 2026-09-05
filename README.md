@@ -6,11 +6,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Visual Studio 离线安装方案](https://www.seaepoch.com/articles/59e889a1/)
 - [论压力的双重属性：内生驱动力与外部阻滞力](https://www.seaepoch.com/articles/227ecbd2/)
 - [最便宜的外卖点餐优惠教程](https://www.seaepoch.com/articles/69f8838d/)
 - [QML ColorAnimation 的陷阱：为什么不能同时动画颜色和透明度？](https://www.seaepoch.com/articles/2a9d3394/)
 - [QML 单例简明指南](https://www.seaepoch.com/articles/38f86482/)
-- [QML Row 和 RowLayout 的区别](https://www.seaepoch.com/articles/dc1e73b9/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
