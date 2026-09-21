@@ -6,11 +6,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [高性能 IPC：C++ 与 Python 间基于 Windows 共享内存的低延迟通信方案](https://www.seaepoch.com/articles/552d9b37/)
+- [Windows 更改系统默认编码为 UTF-8](https://www.seaepoch.com/articles/e853f118/)
+- [高性能 IPC 之共享内存](https://www.seaepoch.com/articles/552d9b37/)
 - [VSCode 怎么隐藏发行说明？](https://www.seaepoch.com/articles/b882c9bc/)
 - [Linux 入门基础知识总结](https://www.seaepoch.com/articles/d3b879fb/)
 - [Visual Studio 离线安装方案](https://www.seaepoch.com/articles/59e889a1/)
-- [论压力的双重属性：内生驱动力与外部阻滞力](https://www.seaepoch.com/articles/227ecbd2/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
